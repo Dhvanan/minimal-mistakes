@@ -94,7 +94,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "in/dhvananshah"
+  linkedin         : "dhvananshah"
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
@@ -227,3 +227,4 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
