@@ -1,5 +1,5 @@
 ---
-title: "What;s Up!"
+title: "What's Up!"
 layout: single
 excerpt: "Hello World"
 sitemap: true
