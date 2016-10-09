@@ -1,18 +1,9 @@
 ---
-title: "Hello World"
+title: "What;s Up!"
 layout: single
-excerpt: "First Post"
-sitemap: false
-permalink: /post.html
+excerpt: "Hello World"
+sitemap: true
+permalink: /posts/1
 ---
 
-Hello World!
-
-<script type="text/javascript">
-  var GOOG_FIXURL_LANG = 'en';
-  var GOOG_FIXURL_SITE = '{{ site.url }}'
-</script>
-<script type="text/javascript"
-</script>
-
-
+Wazza World!
