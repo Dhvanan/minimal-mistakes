@@ -3,6 +3,7 @@ title: "Hello World"
 layout: single
 excerpt: "First Post"
 sitemap: false
+permalink: /404.html
 ---
 
 Hello World!
