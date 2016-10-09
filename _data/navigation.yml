@@ -5,5 +5,4 @@ main:
     url: https://dhvanan.github.io/about
 
   - title: "Resume"
-    url: https://drive.google.com/open?id=0B8EwJpeIQFoWeDZWaThMcEtoSTA
-
+    permalink : /files/resume.pdf
